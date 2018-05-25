@@ -1,0 +1,10 @@
+hash: f770b0d4cc9bd4d0d9a07e3fa67e48d66bb33b32a57af343f9850c9c44ee9d06
+updated: 2018-05-25T15:08:26.530905051+02:00
+imports:
+- name: github.com/fnproject/fdk-go
+  version: 1eb29530716f262bad5b83eb9a5b3f7483636949
+  subpackages:
+  - utils
+- name: github.com/sirupsen/logrus
+  version: ea8897e79973357ba785ac2533559a6297e83c44
+testImports: []

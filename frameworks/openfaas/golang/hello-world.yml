@@ -1,0 +1,9 @@
+provider:
+  name: faas
+  gateway: http://52.59.249.57:33000
+
+functions:
+  hello-world:
+    lang: golang-http
+    handler: ./hello-world
+    image: julestestard/hello-world

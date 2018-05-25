@@ -1,0 +1,4 @@
+package: github.com/fnproject/fn/examples/tutorial/hello/go/usingdeps
+import:
+- package: github.com/sirupsen/logrus
+
